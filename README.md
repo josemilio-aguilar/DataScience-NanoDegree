@@ -19,7 +19,7 @@ For this project, I was interestested in using retail data to understand better 
 1. Which products are the most popular?
 2. What is the behavior of products between one an other?
 3. How is the mix and match between products?
-4. Based on transactional data can we generate a recommendation system?
+
 
 <h1>File Description</h1>
 There is 1 notebook available here to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
