@@ -29,3 +29,5 @@ There is 1 notebook available here to showcase work related to the above questio
 
 Thanks to Kaggle for the usage of the data and best practices.
 
+<h1>Blog</h1>
+You can find the blog <a href="https://www.blogger.com/blog/posts/6125424256122360061?hl=es&tab=jj"> Here</a>
