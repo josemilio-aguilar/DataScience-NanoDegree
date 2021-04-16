@@ -1,0 +1,35 @@
+<h1>Market Basket Analysis - A great way to take advantage of your data</h1>
+
+<h2>Introduction</h2>
+Market Basket Analysis is one of the best way to take advantage of the data to discover association. What it does is look for products that occur frequently in order or transactions. 
+The main reason of using Market Basket Analysis is intended to identify strong relationship based on how often the products sell together.
+
+<h2>Association Rule in simple words</h2>
+ There are 3 important measures to keep in mind when we work with apriori:
+    1.Support --> This says how popular an itemset is, as measured by the proportion of transactions in which an itemset appears
+    2. Confidence --> This says how likely item Y is purchased when item X is purchased, expressed as {X -> Y}. This is measured by the proportion of transactions with item X, in which item Y also appears
+    3.  Lift --> This says how likely item Y is purchased when item X is purchased, while controlling for how popular item Y is.
+
+Now that seems like a mouthfull, let's put an example of how an association rule works. 
+
+Let's say that we have 1000 customers and 100 of them bought beer, 80 of them bought chips and 60 both of them. Now we want to see the relationship of beer and chips.
+Support = P(Beer&Chips)=60/1000=0.06
+Confidence= support/P(Butter)=0.06/(80/1000)=0.75
+Lift=confidence/P(Milk)=0.75/(100/10)=7.5
+
+Now that we made a smooth introduction on Market Basket Analysis let's see what business questions we could answer.
+
+<h3>Which products are more pouplar?</h3>
+
+
+
+<h3>What is the behavior of products between one an other?</h3>
+Based on either top or lower products we could see how is the relationship between products.
+
+
+
+<h3>How is the mix and match between products?</h3>
+Which products perform better and which products have an uplift
+
+
+
